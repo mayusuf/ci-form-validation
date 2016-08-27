@@ -1,0 +1,1 @@
+Please deploy all the files according to folder structure. it follows CI structure.
